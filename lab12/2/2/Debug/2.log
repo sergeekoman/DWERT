@@ -1,0 +1,6 @@
+﻿  2.cpp
+C:\Users\Sergey\Desktop\lab12\2\2\2.cpp(11,10): warning C4473: "scanf_s": передано недостаточно аргументов для строки формата
+C:\Users\Sergey\Desktop\lab12\2\2\2.cpp(11,10): message : заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+C:\Users\Sergey\Desktop\lab12\2\2\2.cpp(11,10): message : отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+C:\Users\Sergey\Desktop\lab12\2\2\2.cpp(11,10): message : этот аргумент используется в качестве размера буфера
+  2.vcxproj -> C:\Users\Sergey\Desktop\lab12\2\Debug\2.exe
