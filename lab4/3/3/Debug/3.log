@@ -1,0 +1,3 @@
+﻿  3.cpp
+C:\Users\sereg\OneDrive\Рабочий стол\lab4\3\3\3.cpp(14,11): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  3.vcxproj -> C:\Users\sereg\OneDrive\Рабочий стол\lab4\3\Debug\3.exe
