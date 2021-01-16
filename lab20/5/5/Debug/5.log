@@ -1,0 +1,5 @@
+﻿  5.cpp
+C:\Users\Sergey\Desktop\lab20\5\5\5.cpp(29,83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sergey\Desktop\lab20\5\5\5.cpp(30,83): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\Sergey\Desktop\lab20\5\5\5.cpp(31,85): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+  5.vcxproj -> C:\Users\Sergey\Desktop\lab20\5\Debug\5.exe
